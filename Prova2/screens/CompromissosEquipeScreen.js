@@ -6,7 +6,7 @@ const sections = [
     title: '(Eu)',
     data: [
       '09h30: Reunião "Daily"',
-      '14h00: Reunião com cliente: Carros & Carnes',
+      '14h00: Reunião com cliente: Carros & Carrros',
       '16h30: Prazo final Projeto X',
     ],
   },
